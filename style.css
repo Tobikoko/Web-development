@@ -1,0 +1,10 @@
+form{
+    border-style: inset;border-top: 20px;border-left: 20px;border-right: 20px;border-bottom: 20px;
+    padding-left: 10px;padding-right: 10pxs;padding-top: 10px;padding-bottom: 10px;
+}
+.labels{
+    width: 100%;
+}
+body{
+  background-color: #e2e269;
+}

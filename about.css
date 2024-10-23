@@ -1,0 +1,22 @@
+table,th ,td{
+    border: 1px; border-style: solid;
+}
+table { width: 100%; border-collapse: collapse;
+}
+th{
+    height: 70px;
+}
+article{
+    background-color: bisque;margin: 5px; padding: 20px;
+}
+aside{ background-color: brown;text-align:justify
+    width: 100px; border-style: ridge;
+    padding: 15px; margin-left: 5px;float: left;
+
+}
+
+body{
+    background-image: url(/female.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;background-position: top left;background-size: cover;
+}
